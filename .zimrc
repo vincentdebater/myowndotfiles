@@ -30,7 +30,7 @@ zmodule git-info
 # A heavily reduced, ASCII-only version of the Spaceship and Starship prompts.
 zmodule s1ck94
 zmodule prompt-pwd
-zmodule zmodule jeffreytse/zsh-vi-mode
+zmodule jeffreytse/zsh-vi-mode
 #
 # Completion
 #

@@ -148,3 +148,4 @@ export PATH="$PATH:/opt/nvim-linux-x86_64/bin"
 setopt auto_cd
 
 export GO111MODULE=on
+eval "$(zoxide init zsh)"
